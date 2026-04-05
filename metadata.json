@@ -1,0 +1,5 @@
+{
+  "name": "Cash Memo Serial Generator",
+  "description": "Generate multiple cash memos with sequential or manual serial numbers from a base image.",
+  "requestFramePermissions": []
+}
